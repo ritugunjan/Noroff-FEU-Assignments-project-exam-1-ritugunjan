@@ -19,7 +19,7 @@ https://github.com/ritugunjan/Noroff-FEU-Assignments-project-exam-1-ritugunjan.g
 
 3. Commit and push changes to your repository
 
-
+4. Deploy your site for free on Netlify by logging in through github
 
 
 ## Contributing
