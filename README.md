@@ -1,16 +1,17 @@
 
 # She Blogs (Project Exam1)
-
 A food blogging website sample
 
-
 ## Description
-This project showcases my learning outcomes of HTML, CSS, JS and Wordpress REST API
+This project showcases my learning outcomes of HTML, CSS, JS and Wordpress REST API.
+This was the first time I used WordPress REST API
+
 ## Built With
 HTML
 CSS
 Javascript
 WordPress
+
 ## Getting Started
 1. Clone the following repository:
 https://github.com/ritugunjan/Noroff-FEU-Assignments-project-exam-1-ritugunjan.git
@@ -23,11 +24,7 @@ https://github.com/ritugunjan/Noroff-FEU-Assignments-project-exam-1-ritugunjan.g
 
 
 ## Contributing
-
 Contributions are always welcome!
-
-
-
 
 ## Contact
 https://github.com/https://github.com/ritugunjan
